@@ -4656,11 +4656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ahmed\\source\\repos\\ToDo-list-Api\\ToDoListApi.csproj",
+      "projectUniqueName": "C:\\Users\\Ahmed\\source\\repos\\ToDoListApi\\ToDoListApi.csproj",
       "projectName": "ToDoListApi",
-      "projectPath": "C:\\Users\\Ahmed\\source\\repos\\ToDo-list-Api\\ToDoListApi.csproj",
+      "projectPath": "C:\\Users\\Ahmed\\source\\repos\\ToDoListApi\\ToDoListApi.csproj",
       "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ahmed\\source\\repos\\ToDo-list-Api\\obj\\",
+      "outputPath": "C:\\Users\\Ahmed\\source\\repos\\ToDoListApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
