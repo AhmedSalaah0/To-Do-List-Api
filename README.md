@@ -35,7 +35,7 @@ https://learn.microsoft.com/en-us/previous-versions/aspnet/mt173608(v=vs.108)
 #### Add A New Group
 
 
-``` post
+``` http
   POST /api/tasks
 ```
 
@@ -47,7 +47,8 @@ https://learn.microsoft.com/en-us/previous-versions/aspnet/mt173608(v=vs.108)
 
 
 #### Add New Item To the Group
-```post
+
+```http
   POST /api/addtodolist
 ```
 | Parameter     | Type      | Description                       |
@@ -66,7 +67,8 @@ https://learn.microsoft.com/en-us/previous-versions/aspnet/mt173608(v=vs.108)
 #### set Complete or in Complete
 
 **For All Group**
-```put
+
+```http
   PUT /api/tasks/{taskId}
 ```
 
@@ -78,7 +80,7 @@ https://learn.microsoft.com/en-us/previous-versions/aspnet/mt173608(v=vs.108)
 
 **For A ToDo List Element**
 
-```put
+```http
   PUT /api/Completed/{ToDoId}
 ```
 
